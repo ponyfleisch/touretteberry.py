@@ -12,7 +12,7 @@ At `--max` and above, p=1. For CO2 levels within the lower half of the min-max r
 
 ## Does it work?
 
-Yes, video coming soon.
+[Yes](https://twitter.com/ponyfleisch/status/1459891393434775556?s=21)
 
 ## Instructions
 
